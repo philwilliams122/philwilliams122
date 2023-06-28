@@ -15,4 +15,7 @@ I'm Phil, a data enthusiast with a passion for leveraging the power of data to d
 
 💡 Beyond data science, I am a lifelong learner who enjoys staying updated with the latest technological advancements and industry trends. I believe in the power of continuous learning and strive to broaden my knowledge through reading, attending workshops, and engaging in online communities.
 
-📫 You can reach me at philwilliams122@outlook.com or connect with me on LinkedIn: https://www.linkedin.com/in/phil-williams-b3a98b196/ Looking forward to connecting with you!
+📫 You can reach me at philwilliams122@outlook.com 
+👔 Connect with me on LinkedIn: https://www.linkedin.com/in/phil-williams-b3a98b196/
+
+Looking forward to connecting with you!
